@@ -1,0 +1,2424 @@
+{
+  "encoding": null,
+  "uri": null,
+  "title": "Лучшие публикации за сутки",
+  "description": "Лучшие публикации за последние 24 часа",
+  "feedType": "rss_2.0",
+  "link": "https://habr.com/ru/top/daily/",
+  "webMaster": null,
+  "managingEditor": "editor@habr.com",
+  "docs": null,
+  "generator": "habr.com",
+  "styleSheet": null,
+  "links": [],
+  "icon": null,
+  "image": {
+    "title": "Хабр",
+    "url": "https://habr.com/images/logo.png",
+    "width": -1,
+    "height": -1,
+    "link": "https://habr.com/ru/",
+    "description": null,
+    "interface": "com.rometools.rome.feed.synd.SyndImage"
+  },
+  "entries": [
+    {
+      "uri": "https://habr.com/ru/post/470135/",
+      "link": "https://habr.com/ru/post/470135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=470135",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Интерактивное веб-приложение без программирования? Легко! Mavo вам в руки",
+      "description": {
+        "type": "text/html",
+        "value": "Вы владеете HTML и CSS и умеете создавать простые (и не очень) статические веб-страницы, а хотели бы вдохнуть в них больше «жизни» и интерактивности? У вас есть работы (картины, фотографии, стихи, коллекция марок и т. п.), которыми вам хотелось бы поделиться с миром, но создание сайта-портфолио или блога, куда можно их разместить и без лишних усилий обновлять, вам не под силу? Или мечтаете вести дневник путешественника, или собирать необычные кулинарные рецепты, или отслеживать свою фитнес-активность и делать всё это онлайн на собственном сайте? Возможно, у вас есть любимый питомец, уход за которым требует особых процедур, и их обязательно нужно отслеживать и оперативно фиксировать? <br>\n<br>\nНо от упоминания JavaScript вас бросает в лёгкую (а иногда и не очень) дрожь, а количество технологий и концепций, которыми нужно овладеть, чтобы реализовать ваши задумки, приводит вас в замешательство и отчаяние? В итоге вы задаётесь вопросами: «Почему веб-программирование должно быть таким трудным? Неужели нельзя что-то придумать, чтобы сделать его проще?». <br>\n<br>\nТогда вы пришли точно по адресу. Прочитав статью, вы получите в руки инструмент, с помощью которого, я уверен, сможете воплотить в жизнь, если не все, то многие свои идеи, аналогичные перечисленным выше.<br>\n<br>\n<div style=\"text-align:center;\"><img src=\"https://habrastorage.org/getpro/habr/post_images/f00/d32/24f/f00d3224f419e5a5bd65dde2ab1af1db.png\"></div><i>Автор оригинальных картинок: Mart Virkus (toggl.com)</i><br>\n<br>\nМаститые и умудрённые опытом фронтенд-разработчики, не спешите закрывать статью с криками, что сейчас тут будут что-то «втирать» новичкам и вам здесь делать нечего. Я уверен, вы тоже сможете почерпнуть для себя что-то полезное. Главное, помните: если что-то станет простым для новичков, это автоматически станет простым для всех! А значит, в какой-то мере упростит жизнь и вам. Это неплохо, согласитесь?<br> <a href=\"https://habr.com/ru/post/470135/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=470135#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "DSharabin",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T08:03:06.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T08:03:06.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "DSharabin"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании ГК ЛАНИТ"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Разработка веб-сайтов"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "CSS"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Программирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "HTML"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "ланит"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "mavo"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Интерактивное веб-приложение без программирования? Легко! Mavo вам в руки",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T08:03:06.000+0000",
+      "author": "DSharabin"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472528/",
+      "link": "https://habr.com/ru/post/472528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472528",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Пробуем preload (PHP 7.4) и RoadRunner",
+      "description": {
+        "type": "text/html",
+        "value": "<img src=\"https://habrastorage.org/webt/mu/-7/aw/mu-7awhkx6dstts3atuaodnhsm4.jpeg\"><br>\n<br>\nПривет, Хабр! <br>\n<br>\nМы часто пишем и говорим о производительности PHP: <a href=\"https://habr.com/ru/company/badoo/blog/430722/\">как мы ей занимаемся</a> в целом, <a href=\"https://habr.com/ru/company/badoo/blog/279047/\">как мы сэкономили</a> 1 млн долларов при переходе на PHP 7.0, а также <a href=\"https://habr.com/ru/company/badoo/blog/434272/\">переводим</a> разные материалы на эту тему. Это вызвано тем, что аудитория наших продуктов растёт, а масштабирование PHP-бэкенда при помощи железа сопряжено со значительными затратами — у нас 600 серверов с PHP-FPM. Поэтому инвестирование времени в оптимизацию для нас выгодно.<br>\n<br>\nПрежде мы говорили в основном об обычных и уже устоявшихся способах работы с производительностью. Но сообщество PHP не дремлет! В PHP 8 появится JIT, в PHP 7.4 — preload, а за пределами core-разработки PHP развиваются фреймворки, подразумевающие работу PHP как демона. Пора поэкспериментировать с чем-то новым и посмотреть, что это может нам дать.<br>\n<br>\nТак как до релиза PHP 8 ещё далеко, а асинхронные фреймворки плохо подходят для наших задач (почему — расскажу ниже), сегодня остановимся на preload, который появится в PHP 7.4, и фреймворке для демонизации PHP — RoadRunner.<br>\n<br>\nЭто текстовая версия моего доклада с <a href=\"https://habr.com/ru/company/badoo/blog/464775/\">Badoo PHP Meetup #3</a>. Видео всех выступлений мы <a href=\"https://habr.com/ru/company/badoo/blog/469193/\">собрали в этом посте</a>. <a href=\"https://habr.com/ru/post/472528/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472528#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "pmurzakov",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T12:04:14.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T12:04:14.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "pmurzakov"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Badoo"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Высокая производительность"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Разработка веб-сайтов"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "PHP"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Программирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "php"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "php-fpm"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "roadrunner"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "performance"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "preload"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Пробуем preload (PHP 7.4) и RoadRunner",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T12:04:14.000+0000",
+      "author": "pmurzakov"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472490/",
+      "link": "https://habr.com/ru/post/472490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472490",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Как я искала эталон красоты с помощью Natural Language Processing (и не нашла)",
+      "description": {
+        "type": "text/html",
+        "value": "Невозможно объективно измерить, какие девушки красивее: блондинки или брюнетки, смуглые или белокожие, высокие или миниатюрные. Но можно посчитать, какие черты внешности упоминают чаще, когда говорят о красоте. <br>\n<br>\nУ меня была неделя на эксперименты, наши движки анализа данных,16 тысяч русских романов и повестей XIX века и 15 тысяч современных длинных произведений. И, конечно, не было никаких размеченных данных. <br>\n<br>\nОсновная идея была в том, чтобы выделить из этой горы текстов фрагменты с описаниями красивых женщин, а потом из этих фрагментов извлечь частотные черты внешности.<br>\n<br>\nВот визуализация того, что получилось. Точнее, одного из распространённых вариантов.<br>\n<br>\n<img src=\"https://habrastorage.org/webt/9x/b5/w9/9xb5w9ogi1yo6fu06lymfb0emku.jpeg\"><br>\n<i> Цвет глаз, волос, платье, рост, воспитание — всё это можно выделить из корпуса текстов.</i><br>\n<br>\nКонечно, не всё так просто и однозначно как на рисунках, но примерное представление вы уже получили. Теперь давайте расскажу про детали и последовательность действий. <a href=\"https://habr.com/ru/post/472490/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472490#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "wordvictor",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T07:02:21.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T07:02:21.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "wordvictor"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании SAS"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Data Mining"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Визуализация данных"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Статистика в IT"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "женщина"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "образ"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "красота"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "анализ"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "текст"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "описание"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "синоним"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "поиск"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "контекст"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "исследование"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Как я искала эталон красоты с помощью Natural Language Processing (и не нашла)",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T07:02:21.000+0000",
+      "author": "wordvictor"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472544/",
+      "link": "https://habr.com/ru/post/472544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472544",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[recovery mode] Маркетинговые фишки от Pornhub: чему учит самый трогательный сайт современности",
+      "description": {
+        "type": "text/html",
+        "value": "<img src=\"https://habrastorage.org/webt/t9/dy/m3/t9dym3b6nmgky9kjxprivwxvkpm.png\"><br>\n<br>\nИзвлечь урок можно из всего — даже из порнографии. Мы говорим не о тех уроках, о которых вы подумали. Мы говорим об уроках, о которых вы не подумали — об уроках маркетинга.<br>\n<br>\nПорнография — дело прибыльное. Туда стекают огромные деньги, которые позволяют не только снимать контент, но и адаптировать сервис к требованиям современности. Здесь мы расскажем, как это делает Pornhub.<br> <a href=\"https://habr.com/ru/post/472544/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472544#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "DigitalAgencySphere",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T10:35:29.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T10:35:29.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "DigitalAgencySphere"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Интернет-маркетинг"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Управление медиа"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Брендинг"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "брендинг в интернете"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "порноиндустрия"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "порносайты"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "маркетинг"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[recovery mode] Маркетинговые фишки от Pornhub: чему учит самый трогательный сайт современности",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T10:35:29.000+0000",
+      "author": "DigitalAgencySphere"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472366/",
+      "link": "https://habr.com/ru/post/472366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472366",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[Перевод] Новый алгоритм поиска пути в Factorio",
+      "description": {
+        "type": "text/html",
+        "value": "<div style=\"text-align:center;\"><img src=\"https://habrastorage.org/webt/l5/gr/ba/l5grba862hfltsqu-mpyjafuui0.gif\"></div><br>\nНа прошлой неделе мы говорили в своём блоге об изменениях, которые позволят врагам (biters) не наталкиваться друг на друга, но это было не единственное обновление, связанное с biter-ами. Совпало так, что в обновления этой недели вошло то, над чем мы работали предыдущие несколько недель — обновление системы поиска пути для врагов.<br>\n<br>\n<h4>Поиск пути</h4><br>\nКогда юнит хочет куда-то переместиться, ему сначала нужно понять, как туда добраться. В самом простом случае можно двигаться прямиком к цели, но на пути иногда возникают препятствия — скалы, деревья, гнёзда врагов (spawners), юниты игрока. Чтобы проложить дорогу, мы должны сообщить <i>функции поиска пути</i> (pathfinder) текущую и конечную позиции, а pathfinder вернёт нам (возможно, через много тактов) <i>путь</i>, который просто является набором промежуточных точек (waypoints), по которым должен двигаться юнит, чтобы добраться до места назначения.<br>\n<br>\nДля выполнения своей работы pathfinder использует алгоритм под названием A* (произносится «A star»). Простой пример поиска пути при помощи A* показан на видео: biter хочет найти путь в обход скал. Функция поиска пути начинает исследовать карту вокруг biter-а (исследование показано белыми точками). Сначала она пытается пойти напрямик к цели, но как только достигает скал, «разливается» в обе стороны, пытаясь найти позицию из которой снова можно будет двигаться к цели.<br> <a href=\"https://habr.com/ru/post/472366/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472366#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "PatientZero",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T04:25:01.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T04:25:01.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "PatientZero"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Разработка игр"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Алгоритмы"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Игры и игровые приставки"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "поиск пути"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "алгоритм a*"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "pathfinding"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "алгоритмы поиска пути"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "factorio"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[Перевод] Новый алгоритм поиска пути в Factorio",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T04:25:01.000+0000",
+      "author": "PatientZero"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472154/",
+      "link": "https://habr.com/ru/post/472154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472154",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Как не промахнуться с бюджетом на серийное производство корпусов-2: цены на мелкосерийное литьё пластика",
+      "description": {
+        "type": "text/html",
+        "value": "<b>В <a href=\"https://habr.com/ru/post/438832/\">этой статье на Хабре</a> мы привели 20 примеров цен на изготовление партий корпусов. Добавляем ещё несколько реальных случаев: это цены на мелкосерийное производство литьём пластика, от 25 до 50 штук. Возможно, теперь вы более лучше (с) представите, сколько «это» будет стоить.</b><br>\n<br>\n<img src=\"https://habrastorage.org/webt/8c/t3/2m/8ct32mrtnnoyhdo9jby-iey4imk.jpeg\"><br>\n<br>\nВсе приборы (дизайн и конструкция) разрабатывались у нас в Формлабе, организацией производства занимались тоже мы. Поехали.<br> <a href=\"https://habr.com/ru/post/472154/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472154#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "anvos",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T05:36:52.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T05:36:52.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "anvos"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Прототипирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Управление проектами"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Производство и разработка электроники"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Электроника для начинающих"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "производство электроники"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "производство в китае"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "производство корпуса"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "стоимость услуг"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "серийное производство"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "промдизайн"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "технологии"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "корпус электроники"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "прототипирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "пластиковый корпус"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Как не промахнуться с бюджетом на серийное производство корпусов-2: цены на мелкосерийное литьё пластика",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T05:36:52.000+0000",
+      "author": "anvos"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472406/",
+      "link": "https://habr.com/ru/post/472406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472406",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Развернуть дата-центр за время доставки пиццы",
+      "description": {
+        "type": "text/html",
+        "value": "<img src=\"https://habrastorage.org/webt/-0/u6/-k/-0u6-kcnpxecgh5fhsvbtm0pobo.jpeg\"><br>\n<br>\n— Да этот ЦОД можно развернуть и настроить, пока ты пиццу заказываешь!<br>\n<br>\nЯ бросил эти слова на совещании, и расплата пришла немедленно. Коллега предложила заказать пиццу. Оплачивает проигравший: если я успеваю собрать ЦОД — то она, если не успеваю — то я. <br>\n<br>\nЧёрт!<br>\n<br>\nВ общем, встречайте стресс-тест: гиперконвергентное решение от Cisco с простой настройкой против приготовления пиццы. <a href=\"https://habr.com/ru/post/472406/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472406#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "StGeneralov",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T07:05:52.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T07:05:52.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "StGeneralov"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании КРОК"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "IT-инфраструктура"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Cisco"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Виртуализация"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "cisco hyperflex"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "железо"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "тест"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "стенд"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "цод"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "дата-центр"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "пицца"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "настройка"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "развёртывание"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Развернуть дата-центр за время доставки пиццы",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T07:05:52.000+0000",
+      "author": "StGeneralov"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472462/",
+      "link": "https://habr.com/ru/post/472462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472462",
+      "comments": null,
+      "updatedDate": null,
+      "title": "iFest в Нижнем Новгороде: IT впечатляет",
+      "description": {
+        "type": "text/html",
+        "value": "Пока половина айтишного мира субботним утром отсыпалась за рабочую неделю, 2000 человек собрались в нижегородском технопарке Анкудиновка, чтобы погрузиться в iFest — IT-фестиваль с очевидным акцентом на искусственный интеллект и нейросети. Туда же отправилась наша скромная команда в составе меня, ноутбука, телефона и боевой зеркалки Canon 550 D, чтобы к вечеру понедельника выпустить субъективный, но честный рассказ о фестивале для читателей Хабра. Есть что рассказать, есть что взять на вооружение, есть на каких ошибках поучиться организаторам — потому что было живо, интересно, в прямом смысле динамично. Время пролетело незаметно, мысли и эмоции остались. Ну что, пойдёмте со мной под кат — расскажу, как оно было. <br>\n<br>\n<a href=\"https://habr.com/ru/post/472462/\"><img src=\"https://habrastorage.org/getpro/habr/post_images/7e6/d8a/c0f/7e6d8ac0f7e202a8133858f1ca344feb.png\"></a><br>\n<br>\n<i>Всех смущала перевёрнутая клавиатура, на которой «печатал» Сеньор, но походу это он просто вылез из экрана ноутбука и потянул руки к зрителю. В любом случае, он был прикольным и встречал гостей у входа.</i><br> <a href=\"https://habr.com/ru/post/472462/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472462#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "Verovir",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-21T18:05:26.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-21T18:05:26.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "Verovir"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Карьера в IT-индустрии"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Конференции"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Искусственный интеллект"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "ifest"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "ifest2019"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "нижний новгород"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "iFest в Нижнем Новгороде: IT впечатляет",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-21T18:05:26.000+0000",
+      "author": "Verovir"
+    },
+    {
+      "uri": "https://habr.com/ru/post/466093/",
+      "link": "https://habr.com/ru/post/466093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=466093",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[Перевод] Как работает kubectl exec?",
+      "description": {
+        "type": "text/html",
+        "value": "<i><b>Прим. перев.</b>: автор статьи — Erkan Erol, инженер из SAP — делится своим изучением механизмов функционирования команды <code>kubectl exec</code>, столь привычной для всех, кто работает с Kubernetes. Весь алгоритм он сопровождает листингами исходного кода Kubernetes (и связанных проектов), которые позволяют разобраться в теме настолько глубоко, насколько это требуется.</i><br>\n<br>\n<img src=\"https://habrastorage.org/webt/z7/je/ja/z7jejaxnf5kisqkvemay56t6_pe.png\"><br>\n<br>\nВ одну из пятниц ко мне подошел коллега и поинтересовался, как выполнить команду в pod'е с помощью <a href=\"https://github.com/kubernetes/client-go\">client-go</a>. Я не смог ему ответить и внезапно осознал, что ничего не знаю о механизме работы <code>kubectl exec</code>. Да, у меня были определенные представления о его устройстве, однако я не был уверен на 100% в их правильности и потому решил заняться этим вопросом. Проштудировав блоги, документацию и исходный код, узнал много нового, и в этой статье хочу поделиться своими открытиями и пониманием. Если что-то не так, пожалуйста, свяжитесь со мной в <a href=\"https://twitter.com/erkan_erol_\">Twitter</a>. <a href=\"https://habr.com/ru/post/466093/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=466093#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "Wimbo",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T06:54:02.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T06:54:02.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "Wimbo"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Флант"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Системное администрирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "DevOps"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Kubernetes"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[Перевод] Как работает kubectl exec?",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T06:54:02.000+0000",
+      "author": "Wimbo"
+    },
+    {
+      "uri": "https://habr.com/ru/post/471626/",
+      "link": "https://habr.com/ru/post/471626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=471626",
+      "comments": null,
+      "updatedDate": null,
+      "title": "AI для людей: простыми словами о технологиях",
+      "description": {
+        "type": "text/html",
+        "value": "Представляем исчерпывающую шпаргалку, где мы простыми словами рассказываем, из чего «делают» искусственный интеллект и как это все работает.<br>\n<br>\n<h1>В чем разница между Artificial Intelligence, Machine Learning и Data Science?</h1><br>\n<img src=\"https://habrastorage.org/getpro/habr/post_images/f5b/ffd/d9f/f5bffdd9f2f1fcdca75516612c1f3381.png\"><br>\n<i>Разграничение понятий в области искусственного интеллекта и анализа данных.</i><br> <a href=\"https://habr.com/ru/post/471626/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=471626#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "JetHabr",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-21T16:27:24.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-21T16:27:24.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "JetHabr"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Инфосистемы Джет"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Алгоритмы"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Машинное обучение"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Искусственный интеллект"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Artificial Intelligence"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Machine Learning"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Data Science"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "AI для людей: простыми словами о технологиях",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-21T16:27:24.000+0000",
+      "author": "JetHabr"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472484/",
+      "link": "https://habr.com/ru/post/472484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472484",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Заделываем дыры в кластере Kubernetes. Доклад и расшифровка с DevOpsConf",
+      "description": {
+        "type": "text/html",
+        "value": "<p>Павел Селиванов, архитектор решений Southbridge и преподаватель Слёрма, выступил с докладом на DevOpsConf 2019. Этот доклад — часть одной из тем углубленного курса по Kubernetes «Слёрм Мега».</p><br>\n<p><a href=\"https://slurm.io/slurm?utm_source=habranons\">Слёрм Базовый: введение в Kubernetes</a> проходит в Москве 18-20 ноября.<br>\n<a href=\"https://slurm.io/mega?utm_source=habranons\">Слёрм Мега: заглядываем под капот Kubernetes</a> — Москва, 22-24 ноября.<br>\n<a href=\"https://slurm.io/online?utm_source=habranons\">Слёрм Онлайн: оба курса по Kubernetes</a> доступен всегда.</p><br>\n<div class=\"oembed\"><div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"https://www.youtube.com/embed/Gt4Q1du5FXk?rel=0&#38;showinfo=1&#38;hl=en-US\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div></div><br>\n<p>Под катом — расшифровка доклада.</p> <a href=\"https://habr.com/ru/post/472484/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472484#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "aSkobin",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T08:53:36.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T08:53:36.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "aSkobin"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Southbridge"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Системное администрирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Серверное администрирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "DevOps"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Kubernetes"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Слёрм"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "kubernetes"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "доклад"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Заделываем дыры в кластере Kubernetes. Доклад и расшифровка с DevOpsConf",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T08:53:36.000+0000",
+      "author": "aSkobin"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472494/",
+      "link": "https://habr.com/ru/post/472494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472494",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Анализ кода ROOT — фреймворка для анализа данных научных исследований",
+      "description": {
+        "type": "text/html",
+        "value": "<div style=\"text-align:center;\"><img src=\"https://habrastorage.org/getpro/habr/post_images/df2/7f4/bcd/df27f4bcd139790b322570ee2f48e1ab.png\" alt=\"Picture 3\"></div>Пока в Стокгольме проходила 118-я Нобелевская неделя, в офисе разработки статического анализатора кода PVS-Studio готовился обзор кода проекта ROOT, используемого в научных исследованиях для обработки больших данных. Премию за такой код, конечно, не дашь, а вот подробный обзор интересных дефектов кода и лицензию для полной проверки проекта разработчики получат.<br>\n<br>\n<h2>Введение</h2><br>\n<p></p><div style=\"text-align:center;\"><img src=\"https://habrastorage.org/getpro/habr/post_images/a89/187/f04/a89187f045bbcb2b5b8d5ab7c9dc7da1.png\" alt=\"Picture 1\"></div><br>\n<a href=\"https://root.cern/\">ROOT</a> — набор утилит для работы с данными научных исследований. Он обеспечивает все функциональные возможности, необходимые для обработки больших данных, статистического анализа, визуализации и хранения. В основном написан на языке C++. Разработка началась в <a href=\"https://home.cern/\">CERN</a> (Европейская организация по ядерным исследованиям) для исследований по физике высоких энергий. Каждый день тысячи физиков используют ROOT-приложения для анализа своих данных или для моделирования.<br> <a href=\"https://habr.com/ru/post/472494/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472494#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "SvyatoslavMC",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T07:08:13.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T07:08:13.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "SvyatoslavMC"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании PVS-Studio"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Open source"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "C++"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "C"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Big Data"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "pvs-studio"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "c"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "c++"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "static analysis"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "root"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "big data"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Анализ кода ROOT — фреймворка для анализа данных научных исследований",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T07:08:13.000+0000",
+      "author": "SvyatoslavMC"
+    },
+    {
+      "uri": "https://habr.com/ru/post/467185/",
+      "link": "https://habr.com/ru/post/467185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=467185",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Градиентный спуск по косточкам",
+      "description": {
+        "type": "text/html",
+        "value": "<p>В интернете есть много статей с описанием алгоритма градиентного спуска. Здесь будет еще одна.</p><br>\n<p>8 июля 1958 года <a href=\"https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html\">The New York Times писала</a>: «Психолог показывает эмбрион компьютера, разработанного, чтобы читать и становиться мудрее. Разработанный ВМФ… стоивший 2 миллиона долларов компьютер \"704\", обучился различать левое и правое после пятидесяти попыток… По утверждению ВМФ, они используют этот принцип, чтобы построить первую мыслящую машину класса \"Перцептрон\", которая сможет читать и писать; разработку планируется завершить через год, с общей стоимостью $100 000… Ученые предсказывают, что позже Перцептроны смогут распознавать людей и называть их по имени, мгновенно переводить устную и письменную речь с одного языка на другой. Мистер Розенблатт сказал, что в принципе возможно построить \"мозги\", которые смогут воспроизводить самих себя на конвейере и которые будут осознавать свое собственное существование» (цитата и перевод из книги С. Николенко, «Глубокое обучение, погружение в мир нейронный сетей»).</p><br>\n<p>Ах уж эти журналисты, умеют заинтриговать. Очень интересно разобраться, что на самом деле представляет из себя мыслящая машина класса «Перцептрон».</p> <a href=\"https://habr.com/ru/post/467185/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=467185#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "sadr0b0t",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-21T20:04:24.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-21T20:04:24.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "sadr0b0t"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Python"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Алгоритмы"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Математика"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Машинное обучение"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Искусственный интеллект"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "искусственный интеллект"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "машинное обучение"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "нейронные сети"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "математика на пальцах"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Градиентный спуск по косточкам",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-21T20:04:24.000+0000",
+      "author": "sadr0b0t"
+    },
+    {
+      "uri": "https://habr.com/ru/post/471746/",
+      "link": "https://habr.com/ru/post/471746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=471746",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[Перевод] Полное руководство по настройке HTTP-заголовков для безопасности",
+      "description": {
+        "type": "text/html",
+        "value": "<p><img src=\"https://habrastorage.org/webt/df/rj/xf/dfrjxfp4ydkkf7al1royc4wnufs.jpeg\"></p><br>\n<p>Компании, продающие \"системы показателей безопасности\", сейчас на подъеме, их влияние в сфере корпоративных продаж растет. К тому же есть те, кого низкий рейтинг безопасности у продавцов смущает, и те, кто хотя бы однажды, глядя на рейтинг, отказался от покупки, — я с такими людьми общался.</p><br>\n<p>Я посмотрел, как эти компании вычисляют показатели безопасности других компаний. Оказалось, они смотрят на сочетание использования НТТР-заголовка для безопасности и репутации IP-адресов.</p><br>\n<p>Репутация IP-адреса основывается на данных черных списков и списков спамеров в сочетании с данными о владельце общедоступного IP-адреса. Она, в принципе, должна быть чистой, если ваша компания не рассылает спам и в состоянии быстро определить и остановить вредоносное внедрение. Использование заголовка безопасности НТТР вычисляется аналогично тому, как работает <a href=\"https://observatory.mozilla.org/\">Observatory от Mozilla</a>.</p><br>\n<p>Таким образом, рейтинг большинства компаний, в основном, определяется заголовками, включенными на общедоступных веб-сайтах для безопасности.</p> <a href=\"https://habr.com/ru/post/471746/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=471746#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "nAbdullin",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T08:25:16.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T08:25:16.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "nAbdullin"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Southbridge"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Системное администрирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Серверное администрирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "DevOps"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "security"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "security headers"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "http"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "ip reputation"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[Перевод] Полное руководство по настройке HTTP-заголовков для безопасности",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T08:25:16.000+0000",
+      "author": "nAbdullin"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472338/",
+      "link": "https://habr.com/ru/post/472338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472338",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[Перевод] Кто он — убийца JavaScript?",
+      "description": {
+        "type": "text/html",
+        "value": "Некоторые языки программирования — это языки, которые любят разработчики. Некоторые языки программирования лишь терпят. Для многих программистов JavaScript попадает в последнюю категорию, являясь языком, который нужно понимать каждому, кто пишет клиентские части веб-проектов, но таким, который никто не обязан любить.<br>\n<br>\nДесять лет назад очевидно было то, что JavaScript имеет все шансы, так сказать, править миром. За эту честь сражались и другие платформы — такие, как Java, Flash и Silverlight. Всем этим трём платформам нужны, для работы в браузерах, специальные плагины. Все три меняют HTML-подход к формированию интерфейсов на что-то другое. Это позволило им уйти далеко вперёд от JavaScript в плане возможностей. Например — они умели проигрывать видео, выводить анимацию, рисовать что-то на экране. Всё это другие платформы поддерживали задолго до появления стандартного тега <code>&#60;video&#62;</code>, механизмов CSS-анимации и HTML-элемента <code>canvas</code>. Но всё это стало причиной их краха. Так, когда в мире начался бум мобильного интернета, и когда это было учтено в HTML, другие платформы оказались не у дел.<br>\n<br>\n<a href=\"https://habr.com/ru/company/ruvds/blog/472338/\"><img src=\"https://habrastorage.org/webt/iv/7y/ld/iv7yldmlwvpd7q3dtjtg3owe_yw.jpeg\"></a><br>\n<br>\nИрония есть и в том, что происходит сейчас. В то самое время, когда JavaScript царствует в мире веб-разработки, появился один проект, вроде бы не особенно масштабный, который, когда-нибудь в будущем, способен стать убийцей JavaScript. То, о чём мы тут говорим, началось с экспериментальной технологии asm.js. Как это может выглядеть? Прежде чем ответить на этот вопрос — давайте немного притормозим и поговорим о современном положении дел.<br> <a href=\"https://habr.com/ru/post/472338/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472338#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "ru_vds",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T09:30:01.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T09:30:01.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "ru_vds"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании RUVDS.com"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Разработка веб-сайтов"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "JavaScript"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "разработка"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[Перевод] Кто он — убийца JavaScript?",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T09:30:01.000+0000",
+      "author": "ru_vds"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472506/",
+      "link": "https://habr.com/ru/post/472506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472506",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Где ошибка, Билли? Нам нужна ошибка…",
+      "description": {
+        "type": "text/html",
+        "value": "<div style=\"text-align:center;\"><img src=\"https://habrastorage.org/webt/hk/ek/aa/hkekaakde8vvcz8i9sulw6rakww.png\"></div><br>\n<br>\nНекоторое время назад мой коллега опубликовал <a href=\"https://habr.com/ru/company/funcorp/blog/471766/\">статью</a> про обработку ошибок в Java/Kotlin. И мне стало интересно, а какие вообще в программировании существуют способы передачи ошибок. Если вам тоже интересно, то под катом результат изысканий. Скорее всего, какие-то экзотические методы пропущены, но тут одна надежда на комментарии, которые на Хабре порою бывают интереснее и полезнее самой статьи. :)<br>\n<br> <a href=\"https://habr.com/ru/post/472506/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472506#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "rjhdby",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T08:21:12.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T08:21:12.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "rjhdby"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании FunCorp"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Программирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "обработка ошибок"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "программирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "funcorp"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Где ошибка, Билли? Нам нужна ошибка…",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T08:21:12.000+0000",
+      "author": "rjhdby"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472444/",
+      "link": "https://habr.com/ru/post/472444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472444",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[Перевод] Лучшие продукты отталкиваются от настоящих проблем: Intercom про Jobs-to-be-Done. Часть 3, заключительная",
+      "description": {
+        "type": "text/html",
+        "value": "<img src=\"https://habrastorage.org/webt/0w/kn/dv/0wkndvvksuvlmmst9uypfmcrwz8.png\"><br>\n<br>\nЗаключительная часть о том, как концепция Jobs-to-be-Done меняет принципы создания и улучшения IT-продукта. Третья часть перевода книги «Intercom про Jobs-to-be-Done». Главы с седьмой по девятую.<br>\n<br>\n<a href=\"https://habr.com/ru/company/mailru/blog/467329/\">Первая часть</a><br>\n<a href=\"https://habr.com/ru/company/mailru/blog/469171/\">Вторая часть</a><br> <a href=\"https://habr.com/ru/post/472444/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472444#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "wndrdr",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T08:07:40.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T08:07:40.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "wndrdr"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Mail.ru Group"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Growth Hacking"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Интернет-маркетинг"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Развитие стартапа"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Управление продуктом"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "jtbd"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[Перевод] Лучшие продукты отталкиваются от настоящих проблем: Intercom про Jobs-to-be-Done. Часть 3, заключительная",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T08:07:40.000+0000",
+      "author": "wndrdr"
+    },
+    {
+      "uri": "https://habr.com/ru/post/471686/",
+      "link": "https://habr.com/ru/post/471686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=471686",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Как AWS «варит» свои эластичные сервисы. Масштабирование серверов и базы данных",
+      "description": {
+        "type": "text/html",
+        "value": "Облака подобны магической шкатулке — задаешь, что тебе нужно, и ресурсы просто появляются из ниоткуда. Виртуальные машины, базы данных, сеть — все это принадлежит только тебе. Существуют и другие тенанты облака, но в своей Вселенной ты единоличный правитель. Ты уверен, что всегда получишь требуемые ресурсы, ни с кем не считаешься и самостоятельно определяешь, какой будет сеть. Как устроена эта магия, которая заставляет облако эластично выделять ресурсы и полностью изолировать тенанты друг от друга?<br>\n<br>\n<img src=\"https://habrastorage.org/webt/95/t7/1o/95t71ogmxhqysjnhwbqd_nbj4tk.jpeg\"><br>\n<br>\nОблако AWS это мегасуперсложная система, которая эволюционно развивается с 2006 года. Часть этого развития застал <strong>Василий Пантюхин</strong> — архитектор Amazon Web Services. Как архитектор он видит изнутри не только конечный результат, но и сложности, которые преодолевает AWS. Чем больше понимания работы системы, тем больше доверия. Поэтому Василий поделится секретами облачных сервисов AWS. Под катом устройство физических серверов AWS, эластичная масштабируемость БД, кастомная база данных Amazon и методы повышения производительности виртуальных машин с одновременным уменьшением их цены. Знание архитектурных подходов Amazon поможет эффективнее использовать сервисы AWS и, возможно, даст новые идеи по построению собственных решений.<br> <a href=\"https://habr.com/ru/post/471686/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=471686#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "olegbunin",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T07:50:48.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T07:50:48.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "olegbunin"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании Конференции Олега Бунина (Онтико)"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Высокая производительность"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Разработка веб-сайтов"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Amazon Web Services"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Хранилища данных"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "aws"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "amazon aurora"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "nitro"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "масштабирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "highload++"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Как AWS «варит» свои эластичные сервисы. Масштабирование серверов и базы данных",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T07:50:48.000+0000",
+      "author": "olegbunin"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472448/",
+      "link": "https://habr.com/ru/post/472448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472448",
+      "comments": null,
+      "updatedDate": null,
+      "title": "Темы секции Frontend на DUMP Казань: ML для фронтенд-разработчика, пиксельная магия, SvelteJS, смех, пот и слезы",
+      "description": {
+        "type": "text/html",
+        "value": "«Все об этом говорят, некоторые понимают, (как они думают), а занимаются, по-настоящему, лишь единицы» — цитата программного директора <a href=\"https://dump-kazan.ru/\">DUMP Казань</a>. Если вы думаете, что вы тертый <s>калач</s> фронтенд, и ничего нового на конференциях не услышите, то загляните на <a href=\"https://dump-kazan.ru/frontend\">frontend-секцию</a> <b>8 ноября</b>. Мы вспотели, пока слушали мат.часть некоторых докладов и истории взлетов-падений.<br>\n<br>\n<img src=\"https://habrastorage.org/webt/wi/vf/xm/wivfxmqwrfeakjzwmdsagk3p1rs.jpeg\"><br> <a href=\"https://habr.com/ru/post/472448/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472448#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "kate_shlyakhova",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-21T16:37:13.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-21T16:37:13.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "kate_shlyakhova"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Блог компании IT-People"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "JavaScript"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Angular"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "ReactJS"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "VueJS"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "frontend"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "фронтенд"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "react.js"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "vue.js"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "angular"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "ml"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "machine learning"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "svelte"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "sveltejs"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "казань"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "canvas"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "монорепозиторий"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "монолит"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "Темы секции Frontend на DUMP Казань: ML для фронтенд-разработчика, пиксельная магия, SvelteJS, смех, пот и слезы",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-21T16:37:13.000+0000",
+      "author": "kate_shlyakhova"
+    },
+    {
+      "uri": "https://habr.com/ru/post/472404/",
+      "link": "https://habr.com/ru/post/472404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=472404",
+      "comments": null,
+      "updatedDate": null,
+      "title": "[Перевод] Вычисление 2D-коллизий: алгоритм Гилберта — Джонсона — Кирти",
+      "description": {
+        "type": "text/html",
+        "value": "<div style=\"text-align:center;\"><img src=\"https://habrastorage.org/getpro/habr/post_images/d92/837/791/d92837791f7e383147effd9265b24f91.png\" alt=\"image\"></div><br>\nЯ занялся изучением процессов распознавания коллизий, и это привело меня к алгоритму Гилберта — Джонсона — Кирти (Gilbert-Johnson-Keerthi, GJK).<br>\n<br>\nВсе примеры кода в посте написаны на TypeScript. В примерах используются созданные мной структуры, которые подробно в посте не рассмотрены. Они просты и их можно посмотреть в репозитории GitHub:<br>\n<br>\n<ul>\n<li><code>Vector</code></li>\n<li><code>IShape</code></li>\n<li><code>Collision</code></li>\n</ul><br>\nВесь код из поста хранится в репозитории GitHub:<br>\n<br>\n<a href=\"https://github.com/jthomperoo/gjk-ts-implementation\">https://github.com/jthomperoo/gjk-ts-implementation</a><br>\n<br>\nПост написан на основании этой статьи и рекомендованного в ней видео:<br>\n<br>\n<ul>\n<li><a href=\"http://www.dyn4j.org/2010/04/gjk-gilbert-johnson-keerthi/\">http://www.dyn4j.org/2010/04/gjk-gilbert-johnson-keerthi/</a></li>\n<li><a href=\"http://mollyrocket.com/849\">http://mollyrocket.com/849</a></li>\n</ul><br>\n<h2>Введение</h2><br>\nGJK — это алгоритм, предназначенный для определения пересечения двух выпуклых фигур. Он прост и реализуется при помощи обобщённой «вспомогательной функции», позволяющей использовать более общий подход — аналогичным образом можно обрабатывать многоугольники и фигуры, состоящие из кривых, например, эллипсы.<br> <a href=\"https://habr.com/ru/post/472404/?utm_source=habrahabr&#38;utm_medium=rss&#38;utm_campaign=472404#habracut\">Читать дальше →</a>",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "links": [],
+      "contents": [],
+      "modules": [
+        {
+          "uri": "http://purl.org/dc/elements/1.1/",
+          "title": null,
+          "creator": "PatientZero",
+          "subject": null,
+          "description": null,
+          "publisher": null,
+          "contributors": [],
+          "date": "2019-10-22T10:38:45.000+0000",
+          "type": null,
+          "format": null,
+          "identifier": null,
+          "source": null,
+          "language": null,
+          "relation": null,
+          "coverage": null,
+          "rights": null,
+          "subjects": [],
+          "titles": [],
+          "contributor": null,
+          "dates": [
+            "2019-10-22T10:38:45.000+0000"
+          ],
+          "types": [],
+          "identifiers": [],
+          "languages": [],
+          "relations": [],
+          "coverages": [],
+          "rightsList": [],
+          "creators": [
+            "PatientZero"
+          ],
+          "descriptions": [],
+          "publishers": [],
+          "formats": [],
+          "sources": [],
+          "interface": "com.rometools.rome.feed.module.DCModule"
+        }
+      ],
+      "enclosures": [],
+      "authors": [],
+      "contributors": [],
+      "source": null,
+      "foreignMarkup": [],
+      "wireEntry": null,
+      "categories": [
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Программирование"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Разработка игр"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "Алгоритмы"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "распознавание коллизий"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "collision detection"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "gilbert-johnson-keerthi"
+        },
+        {
+          "taxonomyUri": null,
+          "interface": "com.rometools.rome.feed.synd.SyndCategory",
+          "name": "пересечение многоугольников"
+        }
+      ],
+      "interface": "com.rometools.rome.feed.synd.SyndEntry",
+      "titleEx": {
+        "type": null,
+        "value": "[Перевод] Вычисление 2D-коллизий: алгоритм Гилберта — Джонсона — Кирти",
+        "mode": null,
+        "interface": "com.rometools.rome.feed.synd.SyndContent"
+      },
+      "publishedDate": "2019-10-22T10:38:45.000+0000",
+      "author": "PatientZero"
+    }
+  ],
+  "modules": [
+    {
+      "uri": "http://purl.org/dc/elements/1.1/",
+      "title": null,
+      "creator": "editor@habr.com",
+      "subject": null,
+      "description": null,
+      "publisher": null,
+      "contributors": [],
+      "date": "2019-10-22T16:11:07.000+0000",
+      "type": null,
+      "format": null,
+      "identifier": null,
+      "source": null,
+      "language": "ru",
+      "relation": null,
+      "coverage": null,
+      "rights": null,
+      "subjects": [],
+      "titles": [],
+      "contributor": null,
+      "dates": [
+        "2019-10-22T16:11:07.000+0000"
+      ],
+      "types": [],
+      "identifiers": [],
+      "languages": [
+        "ru"
+      ],
+      "relations": [],
+      "coverages": [],
+      "rightsList": [
+        null
+      ],
+      "creators": [
+        "editor@habr.com"
+      ],
+      "descriptions": [],
+      "publishers": [],
+      "formats": [],
+      "sources": [],
+      "interface": "com.rometools.rome.feed.module.DCModule"
+    }
+  ],
+  "authors": [],
+  "contributors": [],
+  "foreignMarkup": [],
+  "interface": "com.rometools.rome.feed.synd.SyndFeed",
+  "titleEx": {
+    "type": null,
+    "value": "Лучшие публикации за сутки",
+    "mode": null,
+    "interface": "com.rometools.rome.feed.synd.SyndContent"
+  },
+  "descriptionEx": {
+    "type": null,
+    "value": "Лучшие публикации за последние 24 часа",
+    "mode": null,
+    "interface": "com.rometools.rome.feed.synd.SyndContent"
+  },
+  "supportedFeedTypes": [
+    "rss_0.91U",
+    "rss_1.0",
+    "rss_2.0",
+    "rss_0.93",
+    "rss_0.92",
+    "rss_0.94",
+    "rss_0.91N",
+    "rss_0.9",
+    "atom_0.3",
+    "atom_1.0"
+  ],
+  "preservingWireFeed": false,
+  "publishedDate": "2019-10-22T16:11:07.000+0000",
+  "author": "editor@habr.com",
+  "language": "ru",
+  "copyright": null,
+  "categories": []
+}
