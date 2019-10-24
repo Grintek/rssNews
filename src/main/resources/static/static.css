@@ -1,3 +1,9 @@
+img:active{
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+
 .movi{
     margin-top: 25px;
     overflow: hidden;
@@ -33,21 +39,21 @@
     width: 100%;
     margin: auto;
 }
-.navbar:after{
-    height: 167px;
-    background-color: rgb(0, 31, 49);
-    transform: perspective(540px) rotate3d(10,0,0,99deg);
-    width: 42%;
-    padding: 0px;
-    position: absolute;
-    content: "";
-    left: auto;
-    right: auto;
-    top: -60px;
-    margin: 0px 28%;
-    z-index: 3;
-    box-shadow: 0px -13px 49px 0px black, inset 0px 0px 47px -18px
-}
+/*.navbar:after{*/
+/*    height: 167px;*/
+/*    background-color: rgb(0, 31, 49);*/
+/*    transform: perspective(540px) rotate3d(10,0,0,99deg);*/
+/*    width: 42%;*/
+/*    padding: 0px;*/
+/*    position: absolute;*/
+/*    content: "";*/
+/*    left: auto;*/
+/*    right: auto;*/
+/*    top: -60px;*/
+/*    margin: 0px 28%;*/
+/*    z-index: 3;*/
+/*    box-shadow: 0px -13px 49px 0px black, inset 0px 0px 47px -18px*/
+/*}*/
 .navbar:before{
     height: 8px;
     position: absolute;
