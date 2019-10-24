@@ -16,7 +16,7 @@ public class MainController {
 
     @GetMapping("/")
     public String getFeed(Model model){
-        model.addAttribute("rss", rssRepository.findAll());
+        model.addAttribute("rss", rssRepository.findAllByOrderByPublishDataDesc());
         return "home";
     }
 
